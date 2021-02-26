@@ -10,8 +10,8 @@ pipeline {
     }
 
     environment {
-        DEV_PROJECT = "paulmilner-books-dev"
-        STAGE_PROJECT = "paulmilner-books-stage"
+        DEV_PROJECT = "paul-milner-gmail-com-books-dev"
+        STAGE_PROJECT = "paul-milner-gmail-com-books-stage"
         APP_GIT_URL = "https://github.com/paulmilner/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.ap45.prod.nextcle.com/repository/nodejs"
 
